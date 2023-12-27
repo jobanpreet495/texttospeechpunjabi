@@ -99,4 +99,5 @@ wcwidth==0.2.5
 webvtt-py==0.4.6
 werkzeug==2.2.2
 zipp==3.10.0
+torch==1.13.1
 streamlit
